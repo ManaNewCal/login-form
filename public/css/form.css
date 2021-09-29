@@ -106,3 +106,12 @@ input:focus::placeholder{
     text-align: center;
     transition: 1s;
 }
+
+.logo-block {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 300px;
+}
